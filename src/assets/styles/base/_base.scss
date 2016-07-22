@@ -1,0 +1,9 @@
+body {
+  background-color: #dadada;
+}
+
+h1 {
+  @include center-position();
+  font-size: 88px;
+  margin-top: 0;
+}
